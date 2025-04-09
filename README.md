@@ -1,2 +1,2 @@
-# RosenLCS
-Repositório Rosenthal
+# RoseN
+Repositório de Júlia
